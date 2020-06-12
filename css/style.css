@@ -1,0 +1,129 @@
+@charset "utf-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    width: 100% auto;
+	background-color: rgba(139,120,167,1.00);
+}
+
+.titulo{
+	color: white;
+	width: 100%;
+	background: rgba(100,170,180,1.00);
+	border: solid rgba(0,0,0,1.00);
+	border-width: 4px;
+	border-radius: 0px 0px 20px 20px;
+	text-align: center;
+	height: 240px;
+	font-family: chewy;
+	font-size: 800%;
+	padding: 5px;
+	position: relative;
+	top:70px;
+  	-webkit-text-stroke: 3px black;
+  color: white; 
+}
+
+.arriba{
+	color: white;
+	background: rgba(87, 43, 89, 1);
+	font-family: 'Patrick Hand SC', cursive;
+	
+}
+.color{
+	color: rgba(255,255,255,1.00);
+	background: rgba(87, 43, 89, 1);
+	height: 70px;
+	font-family: 'Patrick Hand SC', cursive;
+	font-size: 26px;
+	padding: 10px;
+	position: fixed;
+	z-index: 5;
+    top:0px; 
+}
+
+.contenedorG{
+	background-color:rgba(168,211,175,1.00);
+	margin-left: 5%;
+	height: 250px;
+	margin-top: 60px;
+	border: solid rgba(0,0,0,1.00);
+	border-width: 3px;
+	border-radius: 10px;
+
+
+}
+p {
+	font-family: 'Baloo Bhaina 2', cursive;
+	font-size: 22px;
+	padding: 40px;
+	
+	
+}
+a {
+	color: white;
+}
+
+.descripcion{
+	background-color: rgba(229,235,177,1.00);
+	width: 95%;
+
+	
+}
+
+.desG{
+	background: rgba(229,235,177,1.00);
+	color: black;
+	
+	
+}
+.Galia{
+	margin-top:80px;
+}
+
+.gif{
+	margin-top: 50px;
+}
+
+.contenedorC {
+	background-color: white;
+}
+.pregunta{
+	
+	color: rgba(87, 43, 89, 1);
+	font-family: chewy;
+	font-size: 55px;
+	height: 100px;
+	padding: 5px;
+}
+
+.textoC{
+	font-family: 'Baloo Bhaina 2', cursive;
+	font-size: 20px;
+	padding: 40px;
+	line-height: 26px;
+	border: solid;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.prevenirC{
+	background-color: rgba(229,235,177,1.00);
+	margin-top: 15px;
+}
+
+.footer{
+	color: white;
+	font-size: 18px;
+	padding: 15px;
+	line-height: 26px;
+}
+
+.disU{
+	font-size: 20px;
+	padding-bottom: 0px;
+	font-size: 25px;
+}
